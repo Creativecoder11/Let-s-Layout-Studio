@@ -1,0 +1,70 @@
+import React from "react";
+
+export default function LogoIcon() {
+  return (
+    <svg
+      width="120"
+      height="54"
+      viewBox="0 0 755 757"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <line
+        x1="339.809"
+        y1="456.806"
+        x2="339.809"
+        y2="756.806"
+        stroke="white"
+        stroke-width="80"
+      />
+      <path
+        d="M190.244 555.804L190.244 755.804"
+        stroke="white"
+        stroke-width="80"
+      />
+      <path d="M1 416.939L379.492 416.939" stroke="white" stroke-width="80" />
+      <path d="M1.99512 566.938H230.086" stroke="white" stroke-width="80" />
+      <line
+        x1="714.113"
+        y1="80.2129"
+        x2="714.113"
+        y2="380.213"
+        stroke="white"
+        stroke-width="80"
+      />
+      <path d="M564.55 179.213V379.213" stroke="white" stroke-width="80" />
+      <path
+        d="M375.304 40.3467L753.795 40.3467"
+        stroke="white"
+        stroke-width="80"
+      />
+      <path
+        d="M376.299 190.347L604.39 190.347"
+        stroke="white"
+        stroke-width="80"
+      />
+      <line
+        x1="80.5205"
+        y1="40"
+        x2="379.33"
+        y2="40"
+        stroke="white"
+        stroke-width="80"
+      />
+      <path d="M179.128 190L378.334 190" stroke="white" stroke-width="80" />
+      <path d="M40.8125 380L40.8125 0" stroke="white" stroke-width="80" />
+      <path d="M190.217 379V150" stroke="white" stroke-width="80" />
+      <line
+        x1="674.288"
+        y1="717"
+        x2="375.479"
+        y2="717"
+        stroke="white"
+        stroke-width="80"
+      />
+      <path d="M575.681 567H376.475" stroke="white" stroke-width="80" />
+      <path d="M713.996 377V757" stroke="white" stroke-width="80" />
+      <path d="M564.592 378V607" stroke="white" stroke-width="80" />
+    </svg>
+  );
+}
